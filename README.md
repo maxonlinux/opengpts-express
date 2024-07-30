@@ -1,6 +1,9 @@
 ### ⚠️ DISCONTINUED due to broken AI provider
 Interaction with the service provider's endpoints has been discontinued due to additional security measures that restrict interaction not originating from their domain.
 
+## OpenGPTs-Express
+A Node.js backend that interacts with OpenGPTs server endpoints as a proxy.
+
 ### To Do:
 - [x] Ability to send prompts and get responses
 - [x] Conversation history (interactive communication with model)
